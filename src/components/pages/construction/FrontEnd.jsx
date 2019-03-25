@@ -35,12 +35,14 @@ const FrontEnd = () => {
         <li className="list-group-item list-group-item-success">
           React-Router
         </li>
-        <li className="list-group-item list-group-item-warning">
+        <li className="list-group-item list-group-item-success">
           Okta Authentication
         </li>
-        <li className="list-group-item list-group-item-dark">Apollo Client</li>
-        <li className="list-group-item list-group-item-dark">Queries</li>
-        <li className="list-group-item list-group-item-dark">Mutations</li>
+        <li className="list-group-item list-group-item-warning">
+          Apollo Client
+        </li>
+        <li className="list-group-item list-group-item-warning">Queries</li>
+        <li className="list-group-item list-group-item-warning">Mutations</li>
         <li className="list-group-item list-group-item-dark">Styling</li>
         <li className="list-group-item list-group-item-info">
           Heroku Deployment
